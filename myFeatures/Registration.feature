@@ -1,6 +1,6 @@
 Feature: procedure for validation DemoWebShop
 
-  Scenario: validation for registration
+ Scenario: validation for registration //{abcsd}
     Given DemoWebShop website is launched
     And user clicks on register button
     When user provides proper data
